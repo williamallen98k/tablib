@@ -10,7 +10,6 @@ Tablib: format-agnostic tabular dataset library
 	\__/  \__,_/  /_.___/ /_/   /_/   /_.___/
 
 
-
 Tablib is a format-agnostic tabular dataset library, written in Python.
 
 Output formats supported:
